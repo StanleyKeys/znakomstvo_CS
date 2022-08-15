@@ -1,0 +1,15 @@
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\bin\Debug\net6.0\Task27.exe
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\bin\Debug\net6.0\Task27.deps.json
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\bin\Debug\net6.0\Task27.dll
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\bin\Debug\net6.0\Task27.pdb
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.dll
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\refint\Task27.dll
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.pdb
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+D:\GeekBrains\Znakomstvo\Seminar03\Task27\obj\Debug\net6.0\ref\Task27.dll
