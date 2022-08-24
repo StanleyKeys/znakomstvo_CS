@@ -1,0 +1,15 @@
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\bin\Debug\net6.0\Task41.exe
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\bin\Debug\net6.0\Task41.deps.json
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\bin\Debug\net6.0\Task41.dll
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\bin\Debug\net6.0\Task41.pdb
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.dll
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\refint\Task41.dll
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.pdb
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
+D:\GeekBrains\Znakomstvo\Seminar04\Task41\obj\Debug\net6.0\ref\Task41.dll
