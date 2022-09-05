@@ -1,0 +1,15 @@
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\bin\Debug\net6.0\Task_69.exe
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\bin\Debug\net6.0\Task_69.deps.json
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\bin\Debug\net6.0\Task_69.runtimeconfig.json
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\bin\Debug\net6.0\Task_69.dll
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\bin\Debug\net6.0\Task_69.pdb
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.csproj.AssemblyReference.cache
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.AssemblyInfoInputs.cache
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.AssemblyInfo.cs
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.dll
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\refint\Task_69.dll
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.pdb
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\Task_69.genruntimeconfig.cache
+F:\GeekBrains\Znakomstvo\HomeWork\Task_69\obj\Debug\net6.0\ref\Task_69.dll
